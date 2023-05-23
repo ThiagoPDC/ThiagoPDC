@@ -1,10 +1,10 @@
 <img src="giphy.webp" width="325px" align = "right">
 
 # Hello devs!! good to see you all here!! 
-👩‍🎓 Studing at IFSP.<br>
+👩‍🎓 Studying at IFSP.<br>
 📚 I'm in the senior year<br>
 👩‍💻 Programmer<br>
-⌨ Studing and researching technologies for 3 years <br>
+⌨ Studying and researching technologies for 3 years <br>
 🧰 Looking for a job <br><br>
 💻🤓 Tech Rules!! <br>
 
